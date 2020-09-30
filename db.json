@@ -10,5 +10,66 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [{
+      "id": 1,
+      "first_name": "Torrey",
+      "last_name": "Tommei",
+      "email": "ttommei0@artisteer.com",
+      "gender": "Male"
+    }, {
+      "id": 2,
+      "first_name": "Pedro",
+      "last_name": "Mallabone",
+      "email": "pmallabone1@amazonaws.com",
+      "gender": "Male"
+    }, {
+      "id": 3,
+      "first_name": "Allyson",
+      "last_name": "Janatka",
+      "email": "ajanatka2@independent.co.uk",
+      "gender": "Female"
+    }, {
+      "id": 4,
+      "first_name": "Amara",
+      "last_name": "Benko",
+      "email": "abenko3@wikimedia.org",
+      "gender": "Female"
+    }, {
+      "id": 5,
+      "first_name": "Andee",
+      "last_name": "Brydone",
+      "email": "abrydone4@linkedin.com",
+      "gender": "Female"
+    }, {
+      "id": 6,
+      "first_name": "Giusto",
+      "last_name": "Cowill",
+      "email": "gcowill5@histats.com",
+      "gender": "Male"
+    }, {
+      "id": 7,
+      "first_name": "Warden",
+      "last_name": "Brundill",
+      "email": "wbrundill6@cafepress.com",
+      "gender": "Male"
+    }, {
+      "id": 8,
+      "first_name": "Brigid",
+      "last_name": "Abramowitch",
+      "email": "babramowitch7@free.fr",
+      "gender": "Female"
+    }, {
+      "id": 9,
+      "first_name": "Stormie",
+      "last_name": "Monier",
+      "email": "smonier8@nps.gov",
+      "gender": "Female"
+    }, {
+      "id": 10,
+      "first_name": "Leanora",
+      "last_name": "Walenta",
+      "email": "lwalenta9@cam.ac.uk",
+      "gender": "Female"
+    }]
 }
